@@ -1,1 +1,2 @@
 
+Analyzing hotel guest reviews - Working with TripAdvisor customer review data for the Best Western Plus Pioneer Square Hotel Downtown Hotel in Seattle, Washington. Using the load method in the json module in Python to parse a JSON file with result being a Python dictionary. Then by using dictionary methods extracting the list of reviews for the hotel and then use String methods to get information from within the comments made by the users.
